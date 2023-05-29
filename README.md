@@ -11,7 +11,7 @@
   ![](https://eukarya-inc.github.io/reearth-plugin-modelgenerator/src/img2.png)
 
 
-### プラグインの使い方
+### プラグインの操作方法
 
 ![](https://eukarya-inc.github.io/reearth-plugin-modelgenerator/src/img1.png)
 

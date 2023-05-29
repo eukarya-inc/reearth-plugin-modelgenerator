@@ -8,6 +8,7 @@
 
 ### 編集画面での事前準備
 - あらかじめ右サイドメニューの「モデル」で 配置する3D モデルをアセットから選択するか、URLを指定して設定してください。
+
   ![](https://eukarya-inc.github.io/reearth-plugin-modelgenerator/src/img2.png)
 
 
